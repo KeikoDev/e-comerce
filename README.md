@@ -1,3 +1,1 @@
  # E-comerce
-
- Daniel
